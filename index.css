@@ -1,6 +1,5 @@
 body {
     background-color: whitesmoke;
-   /* background-image: url("images/background.JPG"); */
     color: black; 
     -webkit-text-stroke: .8px black;
     font-size: 14pt;
@@ -21,12 +20,6 @@ h1 {
     max-width: 1200px;
     margin: 0 auto;  
     font-size: 25px;  
-}
-
-.image-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: inline-flex;
 }
 
 .row {
